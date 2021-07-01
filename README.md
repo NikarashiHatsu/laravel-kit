@@ -4,3 +4,4 @@ maintained.
 
 ## Features
 - Laravel 8.4
+- Laravel Breeze
